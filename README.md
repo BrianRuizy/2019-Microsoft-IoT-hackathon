@@ -1,8 +1,10 @@
-# 2019-Microsoft-IoT-hackathon
-🥇 1st Place winners (tied)
+# 2019 Microsoft IoT Hackathon
+**Bump.IT** | *Pothole detection and mapping*
 
+🥇 1st Place winners (tied for)
 
-repository for agile dev. version control for 2019 MS IoT hackathon competition
+## About
+Bump.IT is a solution to the issues costing American drivers $6 billion dollars per year. 
 
 ## Features
 ## Dependecies
