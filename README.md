@@ -1,4 +1,6 @@
 # 2019 Microsoft IoT Hackathon
+Partnered with [The Cannon](https://thecannon.com/), Houston TX.
+
 **Bump.IT** | *Pothole detection and mapping*
 
 🥇 1st Place winners (tied for)
