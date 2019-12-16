@@ -1,4 +1,7 @@
 # 2019-Microsoft-IoT-hackathon
+🥇 1st Place winners (tied)
+
+
 repository for agile dev. version control for 2019 MS IoT hackathon competition
 
 ## Features
