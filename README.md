@@ -1,9 +1,7 @@
 # 2019 Microsoft IoT Hackathon
-Partnered with [The Cannon](https://thecannon.com/), Houston TX.
+🥇 **Bump.IT** | *Pothole detection and mapping*,  1st Place winners (tie)
 
-**Bump.IT** | *Pothole detection and mapping*
-
-🥇 1st Place winners (tied for)
+Hackathon competition partnered with [The Cannon](https://thecannon.com/), Houston TX.
 
 ## About
 Bump.IT is a solution to the issues costing American drivers **$6.4 billion** dollars per year, that is in both repair and insurance cost's. Additionally, the average price to repair a pothole including labor is about **$30 - $50** / pothole, while the damage that single pothole may cause are up to **$300** /year/vehicle. Thus the effort to fixing the affected roads is extremely cost-effective.
