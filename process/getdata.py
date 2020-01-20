@@ -7,8 +7,8 @@ def get_data():
     testdata.dropna()
     
     # renaming the columns
-    testdata.rename(columns={'LOCATION Latitude : ':'Latitude'
-                        'LOCATION Longitude : ':'Longitude'
+    testdata.rename(columns={'LOCATION Latitude : ':'Latitude',
+                        'LOCATION Longitude : ':'Longitude',
                         'LOCATION Altitude ( m)':'Altitude (m)'}, inplace=True)
     
     return testdata
