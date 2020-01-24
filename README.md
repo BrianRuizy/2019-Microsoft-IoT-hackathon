@@ -14,9 +14,19 @@ Bump.IT is a solution to the issues costing American drivers **$6.4 billion** do
 Having won the competition, post minimum-viable-product, granted us full access to MS Azure cloud infrastucture. Which we will employ for the future continued development of the application.
 
 
-## Features
+## Features (*End goals*)
+* Live Computer Vision
+
+<img src="https://github.com/BrianRuizy/2019-Microsoft-IoT-hackathon/blob/master/img/pothole-computervision.gif" alt="gif" width="50%">
+
+* Geocoding/Mapping
+
+<img src="https://github.com/BrianRuizy/2019-Microsoft-IoT-hackathon/blob/master/img/geocoding.png" alt="geocoding" width="50%">
+
 ## Dependecies
 
 ## Contributors
 [![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/0)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/0)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/1)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/1)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/2)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/2)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/3)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/3)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/4)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/4)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/5)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/5)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/6)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/6)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/7)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/7)
 
+------
+#### © [Brian Ruiz](https://github.com/BrianRuizy)
