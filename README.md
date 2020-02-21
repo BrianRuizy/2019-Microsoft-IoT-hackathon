@@ -7,23 +7,24 @@
 
 Hackathon competition partnered with [The Cannon](https://thecannon.com/), Houston TX.
 
+<h1 align="center">
+<img src="https://brianruizy.com/assets/img/bumpIt.png" title="brianruizy.com" width="70%" >
+</h1>
+
 ## About
 Bump.IT is a solution to the issues costing American drivers **$6.4 billion** dollars per year, that is in both repair and insurance cost's. Additionally, the average price to repair a pothole including labor is about **$30 - $50** / pothole, while the damage that single pothole may cause are up to **$300** /year/vehicle. Thus the effort to fixing the affected roads is extremely cost-effective.
 (2016) [pothole.info](https://www.pothole.info/2016/05/so-many-potholes-so-much-cost/) 
 
 Having won the competition, post minimum-viable-product, granted us full access to MS Azure cloud infrastucture. Which we will employ for the future continued development of the application.
 
-
 ## Features (*End goals*)
-* Live Computer Vision
+* Live Computer Vision 
 
 <img src="https://github.com/BrianRuizy/2019-Microsoft-IoT-hackathon/blob/master/img/pothole-computervision.gif" alt="gif" width="50%">
 
-* Geocoding/Mapping
+*  Geocoding/Mapping
 
 <img src="https://github.com/BrianRuizy/2019-Microsoft-IoT-hackathon/blob/master/img/geocoding.png" alt="geocoding" width="50%">
-
-## Dependecies
 
 ## Contributors
 [![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/0)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/0)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/1)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/1)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/2)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/2)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/3)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/3)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/4)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/4)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/5)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/5)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/6)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/6)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/7)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/7)
