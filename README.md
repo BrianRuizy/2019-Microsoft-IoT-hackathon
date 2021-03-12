@@ -18,7 +18,7 @@ Bump.IT is a solution to the issues costing American drivers **$6.4 billion** do
 Having won the competition, post minimum-viable-product, granted us full access to MS Azure cloud infrastucture. Which we will employ for the future continued development of the application.
 
 ## Features (*End goals*)
-* Live Computer Vision 
+* Live Computer Vision using OpenCV
 
 <img src="https://github.com/BrianRuizy/2019-Microsoft-IoT-hackathon/blob/master/img/pothole-computervision.gif" alt="gif" width="50%">
 
