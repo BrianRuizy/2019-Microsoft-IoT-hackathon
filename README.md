@@ -8,7 +8,7 @@
 Hackathon competition partnered with [The Cannon](https://thecannon.com/), Houston TX.
 
 <h1 align="center">
-<img src="https://brianruizy.com/assets/img/bumpIt.png" title="brianruizy.com" width="70%" >
+<img src="https://brianruizy.com/assets/bumpit/bumpit.png" title="brianruizy.com" width="70%" >
 </h1>
 
 ## About
