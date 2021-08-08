@@ -1,15 +1,11 @@
-# 2019 Microsoft IoT Hackathon
-
+# 🥇 **Bump.IT** | 2019 Microsoft IoT Hackathon
 ![](https://camo.githubusercontent.com/d0f65430681b67b7104f6130ada8c098ec5f66ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64652532307374796c652d7374616e646172642d627269676874677265656e2e7376673f7374796c653d666c6174)
 ![](https://camo.githubusercontent.com/a307f74a14e41e762300323414ddef81f3d53ae2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f736f757263657265722d696f2f736f757263657265722d6170702e7376673f636f6c6f72423d666630303030)
 
-🥇 **Bump.IT** | *Pothole detection and mapping*,  1st Place winners (tie)
+This application idea got us first place at a 24hr Microsoft Azure Sponsered Hackathon competition, partnered with [The Cannon](https://thecannon.com/), Houston TX. 
+[![read blog](https://brianruizy.com/favicons/favicon-16x16.png)](https://brianruizy.com/this-application-idea-got-us-first-place-at-the-2019-microsoft-hackathon) Read [blog](https://brianruizy.com/this-application-idea-got-us-first-place-at-the-2019-microsoft-hackathon) post my website, which goes more in depth and how we built this.
 
-Hackathon competition partnered with [The Cannon](https://thecannon.com/), Houston TX.
-
-<h1 align="center">
-<img src="https://brianruizy.com/assets/bumpit/bumpit.png" title="brianruizy.com" width="70%" >
-</h1>
+![mockup](https://user-images.githubusercontent.com/23439187/128644316-32e55811-edb9-4882-80c4-2d8192faa7f4.png)
 
 ## About
 Bump.IT is a solution to the issues costing American drivers **$6.4 billion** dollars per year, that is in both repair and insurance cost's. Additionally, the average price to repair a pothole including labor is about **$30 - $50** / pothole, while the damage that single pothole may cause are up to **$300** /year/vehicle. Thus the effort to fixing the affected roads is extremely cost-effective.
