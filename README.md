@@ -3,7 +3,7 @@
 ![](https://camo.githubusercontent.com/a307f74a14e41e762300323414ddef81f3d53ae2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f736f757263657265722d696f2f736f757263657265722d6170702e7376673f636f6c6f72423d666630303030)
 
 This application idea got us first place at a 24hr Microsoft Azure Sponsered Hackathon competition, partnered with [The Cannon](https://thecannon.com/), Houston TX. 
-[![read blog](https://brianruizy.com/favicons/favicon-16x16.png)](https://brianruizy.com/this-application-idea-got-us-first-place-at-the-2019-microsoft-hackathon) Read [blog](https://brianruizy.com/this-application-idea-got-us-first-place-at-the-2019-microsoft-hackathon) post my website, which goes more in depth and how we built this.
+[![read blog](https://b-r.io/favicons/favicon-16x16.png)](https://www.b-r.io/microsoft/) Read [blog](https://www.b-r.io/microsoft/) post my website, which goes more in depth and how we built this.
 
 ![mockup](https://user-images.githubusercontent.com/23439187/128644316-32e55811-edb9-4882-80c4-2d8192faa7f4.png)
 
